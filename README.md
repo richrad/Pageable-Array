@@ -1,0 +1,1 @@
+An extension to allow paging through a Swift array.
